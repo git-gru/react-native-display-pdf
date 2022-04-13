@@ -12,6 +12,10 @@ In the project directory, you can run:
 
 Install dependencies.
 
+### `cd ios & pod install`
+
+Install cocoapods dependencies.
+
 ### `yarn ios`
 
 Runs the app in the iOS Simulator.
