@@ -2,7 +2,7 @@
 Display Incident Resource Planning Guide (IRPG) PDF in React Native Application for firefighters.
 
 ## Description
-[Display PDF file in React Native Application] (https://bit.ly/3O6J1cG)
+[Display PDF file in React Native Application](https://bit.ly/3O6J1cG)
 
 ## Available Scripts
 
